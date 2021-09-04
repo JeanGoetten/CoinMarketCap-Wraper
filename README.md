@@ -1,4 +1,4 @@
-# CoinMarketCap-Wraper
+# CoinMarketCap Wraper
 
 System requirement:
 
