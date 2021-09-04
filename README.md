@@ -1,5 +1,5 @@
 # CoinMarketCapGetAPITicker
-Import CoinMarketCap HistoricalData System in Python with BeautifulSoup
+CoinMarketCap wraper
 
 System requirement:
 
