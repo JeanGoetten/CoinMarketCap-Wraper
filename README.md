@@ -1,5 +1,4 @@
-# CoinMarketCapGetAPITicker
-CoinMarketCap wraper
+#CoinMarketCap Wraper
 
 System requirement:
 
